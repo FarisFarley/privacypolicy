@@ -1,6 +1,6 @@
 1. Information we collect:
 
-Islamic Groups only collects very basic information from all our users and it does not include any private information. 
+Islamic Groups only collects very basic information e.g User name, User email & User Phone number from all our users and it does not include any private information. 
 The information we gather is only for improving your experience and giving you better versions of our features. 
 This information will not be given or sale to anyone.
 
